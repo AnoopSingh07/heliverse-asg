@@ -1,0 +1,16 @@
+/* UserCard.css */
+
+.user-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+  }
+  
+  .user-card img {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
